@@ -1,0 +1,25 @@
+.gifDetail {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.comment {
+    display: flex;
+    flex-direction: column;
+}
+
+.left {
+    color: white;
+    background-color: orangered;
+    padding: 1rem;
+    border-radius: 2rem;
+    align-self: flex-start;
+}
+
+.right {
+    color: black;
+    background-color: greenyellow;
+    padding: 1rem;
+    border-radius: 2rem;
+    align-self: flex-end;
+}
